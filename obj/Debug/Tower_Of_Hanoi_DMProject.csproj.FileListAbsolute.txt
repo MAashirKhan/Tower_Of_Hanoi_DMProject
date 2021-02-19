@@ -1,0 +1,11 @@
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\bin\Debug\Tower_Of_Hanoi_DMProject.exe.config
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\bin\Debug\Tower_Of_Hanoi_DMProject.exe
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\bin\Debug\Tower_Of_Hanoi_DMProject.pdb
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.csprojAssemblyReference.cache
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.MainWindow.resources
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.Properties.Resources.resources
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.csproj.GenerateResource.cache
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.csproj.CoreCompileInputs.cache
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.exe
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.pdb
+D:\3rd Semester\Discrete Mathematics\Project\Tower_Of_Hanoi_DMProject\obj\Debug\Tower_Of_Hanoi_DMProject.splashscreen.resources
